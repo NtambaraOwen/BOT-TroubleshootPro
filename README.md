@@ -1,5 +1,5 @@
 # BOT TroubleshootPro V1.0
-- BOT TroubleshootPro is a web app developed by BERBASON OASIS TECHNOLOGIES LTD to help our customers troubleshoot different appliances online.
+- BOT TroubleshootPro V1.0 is a web app developed by BERBASON OASIS TECHNOLOGIES LTD to help our customers troubleshoot different appliances online.
 
 # Why?
 - To save time during appliance repair
